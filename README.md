@@ -1,6 +1,6 @@
 ### Hi there 👋
-### I'm specialized in Backend Website & Mobile Development
-### 🌱 I’m currently learning React Native and Kotlin, mastering Laravel and Java
+### I'm a full stack web developer
+### 🌱 I’m currently learning React and Node Express for website development
 
 <!--
 **mrizalrizky/mrizalrizky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
