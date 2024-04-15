@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### 🔭 I'm a full stack web developer
-### 🌱 Currently mastering MERN Tech Stack for website development
+### 🌱 Currently mastering MERN Stack for website development
 ### 📫 Crafting your IT needs through [beriz.tech](https://beriz.tech)
 
 <!--
