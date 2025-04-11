@@ -1,7 +1,6 @@
 ### Hi there 👋
 ### 🔭 I'm a full stack web developer
 ### 🌱 Currently mastering MERN Stack for website development
-### 📫 Crafting your IT needs through [Let's Get IT](https://itslgit.com)
 
 <!--
 **mrizalrizky/mrizalrizky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
